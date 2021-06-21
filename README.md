@@ -1,4 +1,4 @@
-## S2DNet Minimal Loading Code
+## S2DNet Minimal Loading Code (ECCV 2020)
 
 Minimal code to load S2DNet weights, from the paper [S2DNet : Learning Image Features for Accurate Sparse-to-Dense Matching
 ](https://arxiv.org/abs/2004.01673)
